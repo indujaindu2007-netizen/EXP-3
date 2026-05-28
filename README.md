@@ -50,7 +50,7 @@ Direct connection: CIRCUIT DIAGRAM:
 Tabulation:1
 
 
-	<img width="1600" height="1057" alt="WhatsApp Image 2026-05-29 at 12 00 34 AM" src="https://github.com/user-attachments/assets/41d37893-f9f3-484a-8ddc-9e6008fbe342" />
+<img width="1600" height="1057" alt="WhatsApp Image 2026-05-29 at 12 00 34 AM" src="https://github.com/user-attachments/assets/41d37893-f9f3-484a-8ddc-9e6008fbe342" />
 
 Cross connection: CIRCUIT DIAGRAM:
 
